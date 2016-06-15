@@ -1,0 +1,6 @@
+{
+    "name": "intercom",
+    "version": "^2.8.0",
+    "main": "index.d.ts",
+    "global": true
+}
